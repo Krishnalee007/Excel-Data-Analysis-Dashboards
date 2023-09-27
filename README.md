@@ -13,9 +13,17 @@ The main KPI's we need analysis are :
 07) Which channel is contributing to maximum sales
 08) Highest selling category? etc...
 
-******************PIVOT TABLES AFTER ANALYSIS******************************************************************************************************
+
+
+
+********PIVOT TABLES AFTER ANALYSIS************************************************************************************************
+
+
 
 <img width="944" alt="image" src="https://github.com/Krishnalee007/Excel-Data-Analysis-Dashboards/assets/143306126/75f7feb8-cf90-4148-886d-e009458bee9a">
+
+
+
 
 ********************************************EXCEL CHARTS DASHBOARD***********************************************************************
 
@@ -24,11 +32,15 @@ The main KPI's we need analysis are :
 
 *******************************************************INSIGHTS FROM DASHBOARD**********************************************************************
 
+
+
 01) More sales are taking place in March month							
 02) Women are making more purchases, in that Adult age groups are prime customers							
 03) Top 5 states are UP,TS,AP,MH and KN							
 04) Most of the orders are getting delivered - possitive bussinees happening							
 05) Most of products are ordering from Amazon							
+
+
 
 ******************CONCLUSIONS**********************
 
